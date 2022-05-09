@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathanabdullah! Also knonw as... Nathan Abdullah. ^.^
+- 👋 Hi, I’m @nathanabdullah! Also known as... Nathan Abdullah. ^.^
 - 👀 I’m interested in: contributing to this platform and creating innovative projects that push the boundaries of what we've seen in software development!
 - 🌱 I’m currently learning Ruby, Python, C#... just a little bit of everything!
 - 💞️ I’m looking to collaborate on... anything that I can contribute to? Yeah, that's right. Just about anything that I can positively contribute to.
