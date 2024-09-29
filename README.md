@@ -6,6 +6,6 @@
 
 
 
-Graduate from the University of North Texas, B.S. Business Computer Information Systems
-Tech Professional with multiple years of world-class software service experience
+Graduate from the University of North Texas, B.S. Business Computer Information Systems;
+Tech Professional with multiple years of world-class software service experience;
 Actively seeking new opportunity in the fields of IT, Cybersecurity and Data Analysis
